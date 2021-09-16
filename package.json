@@ -21,6 +21,7 @@
     "@react-navigation/stack": "^5.12.8",
     "react": "17.0.1",
     "react-native": "0.64.2",
+    "react-native-audio-recorder-player": "^3.1.2",
     "react-native-dimension": "^1.0.6",
     "react-native-flash-message": "^0.1.23",
     "react-native-gesture-handler": "^1.9.0",
@@ -41,8 +42,8 @@
     "eslint": "7.14.0",
     "jest": "^26.6.3",
     "metro-react-native-babel-preset": "^0.64.0",
-    "react-test-renderer": "17.0.1",
-    "npm-run-all": "^4.1.5"
+    "npm-run-all": "^4.1.5",
+    "react-test-renderer": "17.0.1"
   },
   "jest": {
     "preset": "react-native"
